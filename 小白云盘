@@ -1,0 +1,15 @@
+import { defineAppConfig } from '../types';
+
+export default defineAppConfig({
+  id: 'com.amazing.cloudisk.tv',
+  name: '小白云盘TV',
+  groups: [
+    {
+      key: 1,
+      name: '开屏广告',
+      quickFind: true,
+      rules: 'TextView[text^="返回键跳过 确定暂停 6"]',
+      snapshotUrls: 'https://i.gkd.li/snapshot/1699030124665',
+    },
+  ],
+});
