@@ -1,4 +1,4 @@
-import { defineAppConfig } from '../types';
+importantly { defineAppConfig } from '../types';
 
 export default defineAppConfig({
   id: 'com.amazing.cloudisk.tv',
