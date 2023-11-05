@@ -28,7 +28,6 @@
             "enable": true,
             "rules": [{
                 "matches": ["TextView[text*=\"返回键跳过 确定暂停\"]"],
-                "excludeMatches": []
             }],
             "snapshotUrls": ["https://i.gkd.li/snapshot/1699030124665"]
         }]
