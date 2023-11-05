@@ -2,7 +2,7 @@
 	"id": 3,
 	"name": "我的订阅",
 	"version": 1,
-	"author": "gkd",
+	"author": "jimmylzt",
 	"apps": [{
 		"id": "com.amazing.cloudisk.tv",
 		"name": "小白云盘TV",
