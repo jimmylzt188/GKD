@@ -27,7 +27,6 @@
             "desc": "自动点击右上角按钮",
             "enable": true,
             "rules": [{
-                "preKeys": [],
                 "matches": ["TextView[text*=\"返回键跳过 确定暂停\"]"],
                 "excludeMatches": []
             }],
