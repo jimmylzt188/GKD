@@ -10,12 +10,10 @@
             "name": "自动查看原视频",
             "key": 9,
             "desc": "自动点击底部左侧[查看原视频（*MB）]按钮",
-            "enable": false,
+            "enable": true,
             "activityIds": ["com.tencent.mm.ui.chatting.gallery.ImageGalleryUI"],
             "rules": [{
-                "preKeys": [],
                 "matches": ["Button[text^=\"查看原视频\"][clickable=true]"],
-                "excludeMatches": []
             }],
             "snapshotUrls": ["https://gkd-kit.gitee.io/import/12706944"]
         }]
@@ -26,6 +24,8 @@
         "groups": [{
             "name": "开屏广告",
             "key": 1,
+            "desc": "自动点击右上角按钮",
+            "enable": true,
             "rules": [{
                 "preKeys": [],
                 "matches": ["TextView[text*=\"返回键跳过 确定暂停\"]"],
