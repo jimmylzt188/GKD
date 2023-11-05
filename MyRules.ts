@@ -1,6 +1,6 @@
 {
-	"id": 4,
-	"name": "我的订阅2",
+	"id": 3,
+	"name": "我的订阅",
 	"version": 1,
 	"author": "jimmylzt",
 	"apps": [{
