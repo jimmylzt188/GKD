@@ -1,7 +1,7 @@
 {
     "id": 3,
     "name": "我的订阅",
-    "version": 1,
+    "version": 2,
     "author": "jimmylzt",
     "apps": [{
         "id": "com.tencent.mm",
